@@ -1,1 +1,2 @@
-# machine_learning_PCA_Unsupervised
+Padad program kali ini saya akan melakukan pengelompokan data pada catatan pelanggan dari basis data perusahaan grosir. Segmentasi pelanggan adalah praktik memisahkan pelanggan ke dalam kelompok yang mencerminkan kesamaan di antara pelanggan di setiap kelompok. Saya akan membagi pelanggan ke dalam segmen untuk mengoptimalkan signifikansi setiap pelanggan bagi bisnis. Untuk memodifikasi produk sesuai dengan kebutuhan dan perilaku pelanggan yang berbeda:
+https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering#Customer-Segmentation
